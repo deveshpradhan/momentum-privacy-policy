@@ -33,18 +33,21 @@ Momentum includes Firebase SDKs for build distribution and infrastructure suppor
 ## 4. Data Security
 
 - All data transmitted is encrypted in transit using industry-standard protocols.
-- Data is stored securely and accessed only by authorized personnel within the user's organization.
+- Data is stored securely and accessed only by authorized personnel within the user's organization and by Momentun Soft Admin team for debugging purpose only.
 
 ---
 
 ## 5. User Rights
 
-Users may request deletion of submitted data or raise privacy concerns by contacting us at:
-
-📧 **support@momentumsoft.in**
+Users may request deletion of submitted data with their organisation.
 
 ---
 
 ## 6. Changes to This Policy
 
-This policy may be updated to reflect changes in app functionality or regulatory requirements. Users will be notified of significant updates via the app or our website.
+This policy may be updated to reflect changes in app functionality or regulatory requirements. Users will be notified of significant updates via the app or our website. 
+
+
+## 6. Reach us at
+
+📧 **support@momentumsoft.in**
