@@ -1,5 +1,3 @@
-# Privacy Policy for Momentum App
-
 **Effective Date:** October 15, 2025
 
 Momentum ("the App") is committed to protecting user privacy and ensuring transparency in how data is handled. This policy outlines the types of information collected, the purpose of collection, and the safeguards in place.
