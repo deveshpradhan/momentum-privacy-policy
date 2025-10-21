@@ -24,6 +24,7 @@
 <body>
   <h1>Privacy Policy for BizCon</h1>
   <p><strong>Effective Date:</strong> October 15, 2025</p>
+  <p><strong>Version:</strong> 1.1</p>
 
   <p>BizCon ("the App") is developed and maintained by MomentumSoft ("the Company"). We are committed to protecting user privacy and ensuring transparency in how data is handled. This policy outlines the types of information collected, the purpose of collection, and the safeguards in place.</p>
 
@@ -39,7 +40,13 @@
   <hr>
 
   <h2>2. Use of Firebase SDKs</h2>
-  <p>BizCon includes Firebase SDKs for build distribution and infrastructure support. While Firebase Analytics is present in the app build, it is explicitly disabled at runtime. No behavioral data, usage statistics, or device identifiers are collected or transmitted via Firebase Analytics.</p>
+  <p>BizCon uses Firebase SDKs to support authentication, analytics, and crash reporting:</p>
+  <ul>
+    <li><strong>Firebase Authentication:</strong> Used to securely sign in users and manage session state. It may collect basic identifiers such as email addresses or phone numbers, depending on the login method.</li>
+    <li><strong>Firebase Analytics:</strong> Collects anonymized usage data to help us understand how users interact with the app. This includes screen views, session duration, and device type. No personally identifiable information (PII) is collected.</li>
+    <li><strong>Firebase Crashlytics:</strong> Helps us detect and fix app crashes. It collects crash logs, device model, OS version, and app version at the time of the crash. No sensitive user data is included in crash reports.</li>
+  </ul>
+  <p>All Firebase services are governed by <a href="https://policies.google.com/privacy" target="_blank">Google’s Privacy Policy</a> and comply with industry-standard security practices.</p>
 
   <hr>
 
@@ -72,5 +79,13 @@
 
   <h2>7. Contact Us</h2>
   <p>📧 <strong>support@momentumsoft.in</strong></p>
+
+  <hr>
+
+  <h2>8. Changelog</h2>
+  <ul>
+    <li><strong>Version 1.1 – October 21, 2025:</strong> Updated to reflect active use of Firebase Authentication, Firebase Analytics, and Firebase Crashlytics. Clarified data types collected and added third-party service disclosures.</li>
+    <li><strong>Version 1.0 – October 15, 2025:</strong> Initial release of privacy policy for BizCon.</li>
+  </ul>
 </body>
 </html>
